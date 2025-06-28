@@ -4,3 +4,6 @@ dotenv
 openai
 elevenlabs
 playsound==1.2.2
+speechrecognition 
+pyaudio 
+python-vlc
